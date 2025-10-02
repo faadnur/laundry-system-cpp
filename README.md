@@ -29,7 +29,7 @@ This version may not be the final submission version. It was done as part of cou
 
 ---
 
-👩‍💻 Developed by **Nur Faadhilah Binti Khairul Kholidi**  
+👩‍💻 Developed by **Nur Faadhilah, Fatin Qistina, Iwanina Firzanah**  
 🎓 Diploma in Computer Science, UiTM Jasin  
 📅 Semester 1 – Laundry ABC Project
 
